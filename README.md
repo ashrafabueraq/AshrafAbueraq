@@ -1,6 +1,6 @@
 
 <h2> ### Hi there 👋 I'm ASHRAF </h2>
-<img src="https://github.com/ashrafabueraq/AshrafAbueraq/blob/962d7b9628b4abeb9fa0f6e56f0e14465f406b0d/top11__1_-removebg-preview.png" align="right" width="480px" height="300px"/>
+<img src="https://github.com/ashrafabueraq/AshrafAbueraq/blob/68368d25b9d681cd1dd05dae1a3c2d2a4c44a9d3/profile-img.png" align="right" width="25%"/>
  
  
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
