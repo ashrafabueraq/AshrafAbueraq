@@ -30,7 +30,7 @@
 <br/>
 <p align="center">
    <a href="https://www.linkedin.com/in/ashraf-abueraq-205054186?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1WcVSLG4SoezPYh3mwx6pg%3D%3D"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="ashrafabueraq97@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
+    <a href="mailto:ashrafabueraq97@gmail.com"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
    <a href="https://twitter.com/abdullah_assoli"><img alt="Twitter" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/twitter.svg" title="Twitter" width="100" height="30" /></a>
 </p>
 <!--
